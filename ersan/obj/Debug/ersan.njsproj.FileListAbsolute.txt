@@ -1,0 +1,3 @@
+C:\Users\ersan.batmaz\source\repos\ersan\ersan\obj\Debug\ersan.njsproj.AssemblyReference.cache
+C:\Users\ersan.batmaz\source\repos\ersan\ersan\obj\Debug\ersan.njsproj.CoreCompileInputs.cache
+C:\Users\ersan.batmaz\source\repos\ersan\ersan\bin\Microsoft.NodejsTools.WebRole.dll
